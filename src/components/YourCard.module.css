@@ -1,0 +1,15 @@
+.your-card {
+  max-width: 70rem;
+  width: 90%;
+  margin: 2rem auto;
+}
+
+.title {
+  border-bottom: 2px solid #bcbdbe;
+  margin-bottom: 1.2rem;
+}
+
+.title p {
+  font-size: medium;
+  color: #44444a;
+}

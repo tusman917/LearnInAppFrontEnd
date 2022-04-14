@@ -1,0 +1,41 @@
+.card {
+  width: 330px;
+  height: 190px;
+  background: linear-gradient(321.03deg, #dd9da8 0%, #e74863 91.45%);
+  border-radius: 15px;
+  color: #ffffff;
+  padding: 1rem;
+  letter-spacing: 0.1em;
+  margin: 0 auto;
+}
+
+.card-title {
+  margin-top: 0.5rem;
+  font-weight: bold;
+  font-size: 1rem;
+}
+
+.amount {
+  font-weight: bold;
+  font-size: 2.8rem;
+}
+
+.card-number {
+  font-weight: 500;
+  font-size: 16px;
+}
+.cvv {
+  font-weight: 500;
+  font-size: 16px;
+}
+.card-issue {
+  margin-top: 0.5rem;
+  color: #44444a;
+  font-size: 12px;
+  text-align: center;
+}
+
+.card-issue a {
+  text-decoration: none;
+  color: #146fe3;
+}

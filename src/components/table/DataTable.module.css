@@ -1,0 +1,33 @@
+.transaction {
+  max-width: 70rem;
+  width: 90%;
+  margin: 2rem auto;
+}
+
+.transaction-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 100%;
+  page-break-inside: auto;
+}
+
+th {
+  border-top: 1px solid #bcbdbe;
+  border-bottom: 1px solid #bcbdbe;
+  color: #44444a;
+  text-align: left;
+  padding: 10px;
+  font-size: 10px;
+}
+
+td {
+  border-bottom: 1px solid #e1e1e1;
+  padding: 1.2rem;
+  font-size: 16px;
+}

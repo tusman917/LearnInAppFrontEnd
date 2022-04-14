@@ -1,0 +1,32 @@
+.cardholder {
+  letter-spacing: 0.1em;
+}
+
+.cardholder p {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 10px;
+  line-height: 12px;
+  color: #44444a;
+  margin-bottom: 0.5rem;
+}
+
+.cardholder h2 {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 120%;
+  color: #1b1c23;
+  margin-top: 0;
+  margin-bottom: 1.5rem;
+}
+.row {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+
+.column {
+  margin: 1rem;
+  padding-left: 2rem;
+}

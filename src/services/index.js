@@ -1,6 +1,6 @@
 import axios from "axios";
 
-axios.defaults.baseURL = "hhttps://learnin-app.herokuapp.com/";
+axios.defaults.baseURL = "http://localhost:9999";
 
 export const getTransactions = async () => {
   return await axios({ method: "get", url: "/transactions" });

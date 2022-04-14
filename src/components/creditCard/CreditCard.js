@@ -25,7 +25,7 @@ const CreditCard = ({ card, getCardDetails }) => {
         )}
       </div>
       <p className={classes["card-issue"]}>
-        Program doesn’t accept cards? We can help. <a href="#">Contact us.</a>
+        Program doesn’t accept cards? We can help. <a href="#top">Contact us.</a>
       </p>
     </div>
   );
